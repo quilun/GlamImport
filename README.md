@@ -5,6 +5,14 @@ A Dalamud plugin for FFXIV: copy a glam from a glamour site, paste it in, and Gl
 **Requires:** [Glamourer](https://github.com/Ottermandias/Glamourer)
 **Supported sites:** Eorzea Collection (ffxiv.eorzeacollection.com)
 
+## Installation
+1. Type `/xlsettings` in game and open the **Experimental** tab.
+2. Under **Custom Plugin Repositories**, paste this URL, click **+**, and save:
+   ```
+   https://raw.githubusercontent.com/quilun/DalamudPlugins/main/repo.json
+   ```
+3. Open `/xlplugins`, search for **GlamImport**, and install it. [Glamourer](https://github.com/Ottermandias/Glamourer) needs to be installed too.
+
 ## How to use
 1. Open a glam on Eorzea Collection in your browser.
 2. Copy the page. Select all (Ctrl+A) to also get the glam's name, creator, tags and description, or select just the gear section.

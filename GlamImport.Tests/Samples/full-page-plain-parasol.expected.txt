@@ -1,0 +1,18 @@
+Title: Sample Glam
+Creator: Creator Name
+Complete glam: yes
+Intended for: WHM White Mage
+Fits: Any Any Gender
+Model: Viera Female
+Tags: Sweet | Black | Pink | Goth
+Description: 
+  ♥ Created for White Mage, but it looks great on other jobs too ♥
+Pieces:
+  Head (HEAD): Frontier Ribbon [Jet Black]
+  Body (BODY): Alternative Ruffled Dress [Undyed]
+  Hands (HANDS): Pink Beryl Halfgloves of Healing [Jet Black, Soot Black]
+  Legs (LEGS): Savant's Culottes [Pastel Pink, Undyed]
+  Feet (FEET): Alternative Boots [Undyed, Metallic Silver]
+  MainHand (WEAPON): Edenmorn Cane [Pastel Pink]
+  Ears (EARRINGS): Black Triteleia Earring
+  Fashion (FASHION): Black Embroidered Parasol

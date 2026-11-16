@@ -1,0 +1,15 @@
+Title: -
+Creator: -
+Complete glam: yes
+Intended for: -
+Fits: -
+Model: -
+Tags: -
+Description: -
+Pieces:
+  Head (HEAD): Ephemerist's Hat [Dark Blue, Pearl White]
+  Body (BODY): Boltsoph's Swallowtail [Dark Blue, Undyed]
+  Hands (HANDS): Anemos Orator's Cuffs [Dark Blue, Undyed]
+  Legs (LEGS): Ascension Longkilt of Casting [Dark Blue]
+  Feet (FEET): Gemfiend's Costume Boots [Undyed, Snow White]
+  MainHand (WEAPON): Phantom Rapier Penumbrae Replica [Void Blue, Snow White]

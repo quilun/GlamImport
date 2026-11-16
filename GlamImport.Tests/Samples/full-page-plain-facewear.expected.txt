@@ -1,0 +1,18 @@
+Title: Sample Glam
+Creator: Creator Name
+Complete glam: yes
+Intended for: ALL All Classes
+Fits: Any Any Gender
+Model: Miqo'te Female
+Tags: Cute | Winter Outfit | Blue | Black | Ice
+Description: 
+  ❄️
+Pieces:
+  Head (HEAD): YoRHa Type-51 Headband of Fending [Ice Blue]
+  Body (BODY): Virtu Goetia Coat [Ice Blue]
+  Hands (HANDS): YoRHa Type-55 Gloves of Fending [Russet Brown]
+  Legs (LEGS): YoRHa Type-55 Bottoms of Fending [Undyed]
+  Feet (FEET): Imperial Boots of Casting [Kobold Brown]
+  MainHand (WEAPON): Needle Ultima
+  Ears (EARRINGS): Glass Pumpkin Earring
+  Facewear (FACE): Slim Frame Glasses [Silver]

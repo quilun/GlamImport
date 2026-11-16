@@ -1,0 +1,18 @@
+Title: Sample Glam
+Creator: Creator Name
+Complete glam: yes
+Intended for: Caster Disciples of Magic
+Fits: Any Any Gender
+Model: Viera Female
+Tags: Cute | Final Fantasy | Blue | Black | Magical
+Description: -
+Pieces:
+  Head (HEAD): Praemagitek Hat of Casting
+  Body (BODY): Alternative Ruffled Dress [Dragoon Blue, Dark Purple]
+  Hands (HANDS): Hypostatic Armlets of Casting [Soot Black]
+  Legs (LEGS): Zormor Bottoms of Fending [Soot Black, Undyed]
+  Feet (FEET): Idealized Fili Shoes [Jet Black, Dragoon Blue]
+  MainHand (WEAPON): Elemental Tuck [Undyed, Soot Black]
+  RightRing (RING): Darbar Ring of Casting
+  LeftRing (RING): Darbar Ring of Casting
+  Facewear (FACE): Studded Eyepatch (Left) [Black]

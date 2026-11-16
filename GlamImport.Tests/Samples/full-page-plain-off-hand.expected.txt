@@ -1,0 +1,17 @@
+Title: Sample Glam
+Creator: Creator Name
+Complete glam: yes
+Intended for: PLD Paladin
+Fits: Any Any Gender
+Model: Elezen Female
+Tags: Heroic | Battle Gear | Brown | Blue | Fantasy
+Description: 
+  What started out as a Byron Rosfield cosplay turned into this. Enjoy?
+Pieces:
+  Head (HEAD): Neo Kingdom Hood of Fending [Ink Blue, Ink Blue]
+  Body (BODY): Augmented Crystarium Tabard of Maiming [Dark Blue]
+  Hands (HANDS): Crystarium Gauntlets [Undyed, Soot Black]
+  Legs (LEGS): Darkhempen Skirt of Striking [Soot Black]
+  Feet (FEET): Augmented Crystarium Boots of Scouting [Undyed]
+  MainHand (WEAPON): Augmented Crystarium Sword [Gunmetal Black]
+  OffHand (OFFHAND): Ruthenium Kite Shield [Ink Blue, Dark Blue]

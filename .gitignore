@@ -1,0 +1,7 @@
+bin/
+obj/
+.vs/
+*.user
+
+# Local test build (players get the plugin from release zips)
+dist/

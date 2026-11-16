@@ -1,0 +1,16 @@
+Title: Sample Glam
+Creator: Creator Name
+Complete glam: yes
+Intended for: -
+Fits: -
+Model: Lalafell Female
+Tags: Adventurer | Cosplay
+Description: 
+  A short sample description.
+Pieces:
+  Head (HEAD): Bunny Crown [Jet Black, Jet Black]
+  Body (BODY): Gleaner's Coat [Mud Green, Undyed]
+  Hands (HANDS): Gleaner's Work Gloves [Bark Brown, Undyed]
+  Legs (LEGS): Gleaner's Breeches [Loam Brown, Undyed]
+  Feet (FEET): Gleaner's Longboots [Bark Brown, Undyed]
+  Fashion (FASHION): Knapsack

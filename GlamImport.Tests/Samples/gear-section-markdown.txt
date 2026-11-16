@@ -1,0 +1,26 @@
+Equipment
+HEAD
+[Ephemerist's Hat](https://na.finalfantasyxiv.com/lodestone/playguide/db/item/a41186cdde1)
+⬤ Dark Blue
+⬤ Pearl White
+BODY
+[Boltsoph's Swallowtail](https://na.finalfantasyxiv.com/lodestone/playguide/db/item/547cf1eb793)
+⬤ Dark Blue
+◯ Undyed
+HANDS
+[Anemos Orator's Cuffs](https://na.finalfantasyxiv.com/lodestone/playguide/db/item/8725f519646)
+⬤ Dark Blue
+◯ Undyed
+LEGS
+[Ascension Longkilt of Casting](https://na.finalfantasyxiv.com/lodestone/playguide/db/item/54634bb4ae9)
+⬤ Dark Blue
+FEET
+[Gemfiend's Costume Boots](https://na.finalfantasyxiv.com/lodestone/playguide/db/item/916937da44e)
+◯ Undyed
+⬤ Snow White
+— Weapon —
+WEAPON
+[Phantom Rapier Penumbrae Replica](https://na.finalfantasyxiv.com/lodestone/playguide/db/item/136872d8134)
+⬤ Void Blue
+⬤ Snow White
+Optional

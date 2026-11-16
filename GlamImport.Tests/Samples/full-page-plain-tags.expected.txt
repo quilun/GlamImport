@@ -1,0 +1,17 @@
+Title: Sample Glam
+Creator: Creator Name
+Complete glam: yes
+Intended for: SGE Sage
+Fits: Any Any Gender
+Model: Miqo'te Female
+Tags: Cute | Academic Clothes | Black | Red | Grunge
+Description: -
+Pieces:
+  Head (HEAD): Shisui Mengu of Fending
+  Body (BODY): Alternative Ruffled Dress [Undyed, Dalamud Red]
+  Hands (HANDS): Spaekona's Wrist Torques [Dalamud Red, Metallic Silver]
+  Legs (LEGS): Idealized Estoqueur's Bottoms [Undyed]
+  Feet (FEET): Belt-leather Loafers [Undyed, Pearl White]
+  MainHand (WEAPON): Figments of the Feast [Pearl White, Undyed]
+  RightRing (RING): Cryptlurker's Ring of Fending
+  LeftRing (RING): Cryptlurker's Ring of Fending

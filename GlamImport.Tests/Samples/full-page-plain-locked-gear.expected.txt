@@ -1,0 +1,17 @@
+Title: Sample Glam
+Creator: Creator Name
+Complete glam: yes
+Intended for: -
+Fits: -
+Model: -
+Tags: Cute | Final Fantasy | Black | Red | Cosplay
+Description: -
+Pieces:
+  Head (HEAD): The Emperor's New Hat
+  Body (BODY): Avalanche Brawler's Top [Undyed, Soot Black]
+  Hands (HANDS): Augmented Bozjan Wristwraps of Scouting [Soot Black]
+  Legs (LEGS): Hope Coil [F] [Jet Black, Rolanberry Red]
+  Feet (FEET): Avalanche Brawler's Boots [Rolanberry Red, Undyed]
+  MainHand (WEAPON): The Emperor's New Fists
+  Ears (EARRINGS): Avalanche Brawler's Earring
+  Neck (NECKLACE): The Emperor's New Necklace

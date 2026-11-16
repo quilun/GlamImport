@@ -1,0 +1,21 @@
+Title: -
+Creator: -
+Complete glam: yes
+Intended for: -
+Fits: -
+Model: -
+Tags: -
+Description: -
+Pieces:
+  Head (HEAD): Everseeker's Headgear of Crafting [Pure White, Undyed]
+  Body (BODY): Everseeker's Coat of Gathering [Pure White, Metallic Brass]
+  Hands (HANDS): Street Handwear [Metallic Brass, Pure White]
+  Legs (LEGS): Gargantuaskin Trousers of Maiming [Pearl White, Pure White]
+  Feet (FEET): Vanguard Shoes of Aiming [Pure White, Jet Black]
+  MainHand (WEAPON): Vanguard Angle Brush
+  Ears (EARRINGS): Vanguard Earrings of Casting
+  Neck (NECKLACE): The Emperor's New Necklace
+  Wrists (BRACELETS): The Emperor's New Bracelet
+  RightRing (RING): The Emperor's New Ring
+  LeftRing (RING): The Emperor's New Ring
+  Facewear (FACE): Tinted Sunglasses [Purple]

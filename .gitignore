@@ -5,3 +5,6 @@ obj/
 
 # Local test build (players get the plugin from release zips)
 dist/
+
+# Icon source files
+*.psd

@@ -1,3 +1,5 @@
+<img src="GlamImport/images/icon.png" alt="GlamImport icon" width="128" align="right">
+
 # GlamImport
 
 A Dalamud plugin for FFXIV: copy a glam from a glamour site, paste it in, and GlamImport finds the gear and dyes and applies them to your character with Glamourer, or saves them as a Glamourer design.

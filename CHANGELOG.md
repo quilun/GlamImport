@@ -1,5 +1,10 @@
 # Changelog
 
+## 0.2.1.0 (2026-11-16)
+- Plugin icon.
+- "Visit plugin URL" button in the plugin installer, linking to the GitHub page.
+- Description and tags mention "glamour", so searching for it in the plugin installer finds GlamImport.
+
 ## 0.2.0.0 (2026-11-16)
 - **Renamed to GlamImport** (was ECImport), so more glamour sites can be added later. Command: `/glamimport`.
 - **Apply to Target**: put a glam on the character you're targeting (another player, an NPC, or a GPose actor). Gender/race locks and the weapon are checked for the target.
